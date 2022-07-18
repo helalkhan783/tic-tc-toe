@@ -1,0 +1,4 @@
+<resources>
+    <string name="exit">Do you want to exit ?</string>
+     <string name="app_name">Tictactoe</string>
+</resources>

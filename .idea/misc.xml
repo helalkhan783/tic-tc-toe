@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable-v24/back_icon.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable-v24/ic_settings.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable-v24/radio_button_checked.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable-v24/radio_button_unchecked.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable-v24/round_shape.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable-v24/rounded_corners.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable/bg_white_radius.xml" value="0.1" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable/button_bg_stroke.xml" value="0.1" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/drawable/shape1.xml" value="0.1355" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/activity_ai_choose_symbol.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/activity_ai_game.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/activity_aiget_player_name.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/activity_choose_symbol.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/activity_internet_alert.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/custom_toolbar.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/dialog_connection_unavailable.xml" value="0.1587719298245614" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/layout/robot_win_dialog.xml" value="0.17192982456140352" />
+        <entry key="..\:/All Prject/Tic Tac Toe/app/src/main/res/menu/main_menu.xml" value="0.1587719298245614" />
+        <entry key="..\:/AllWebApp/Desh Express/Desh_Ex_Merchant/app/src/main/res/drawable-v24/ic_navicon.xml" value="0.1712962962962963" />
+        <entry key="..\:/AllWebApp/Desh Express/Desh_Ex_Merchant/app/src/main/res/layout/activity_internet_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Desh Express/Desh_Ex_Merchant/app/src/main/res/layout/activity_main.xml" value="0.1287037037037037" />
+        <entry key="..\:/AllWebApp/Desh Express/Desh_Ex_Merchant/app/src/main/res/layout/activity_url_loads.xml" value="0.1287037037037037" />
+        <entry key="..\:/AllWebApp/Desh Express/Desh_Ex_Merchant/app/src/main/res/layout/custom_toolbar.xml" value="0.33" />
+        <entry key="..\:/AllWebApp/Desh Express/Dess_Express_Rider/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/AllWebApp/Desh Express/Dess_Express_Rider/app/src/main/res/layout/header.xml" value="0.19010416666666666" />
+        <entry key="..\:/AllWebApp/Desh Express/Dess_Express_Rider/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1787037037037037" />
+        <entry key="..\:/AllWebApp/Lianu Express/Lianu Express Merchant/app/src/main/res/layout/activity_internet_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Lianu Express/Lianu Express Merchant/app/src/main/res/layout/activity_main.xml" value="0.14814814814814814" />
+        <entry key="..\:/AllWebApp/Lianu Express/Lianu Express Merchant/app/src/main/res/layout/activity_url_loads.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Lianu Express/Lianu Express Merchant/app/src/main/res/layout/custom_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Lianu Express/Lianu Express Merchant/app/src/main/res/layout/header.xml" value="0.14907407407407408" />
+        <entry key="..\:/AllWebApp/Lianu Express/Lianu Express Merchant/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19166666666666668" />
+        <entry key="..\:/AllWebApp/Mamu/Mamu Merchant/app/src/main/res/drawable/shape1.xml" value="0.155" />
+        <entry key="..\:/AllWebApp/Mamu/Mamu Merchant/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Mamu/Mamu Merchant/app/src/main/res/layout/activity_url_loads.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Mamu/Mamu Merchant/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Mamu/Mamu Rider/app/src/main/res/layout/custom_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Pick Earn/Merchant Pick Earn/app/src/main/res/drawable/shape1.xml" value="0.1" />
+        <entry key="..\:/AllWebApp/Pick Earn/Merchant Pick Earn/app/src/main/res/layout/activity_main.xml" value="0.1484375" />
+        <entry key="..\:/AllWebApp/Pick Earn/Merchant Pick Earn/app/src/main/res/layout/custom_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Pick Earn/Merchant Pick Earn/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllWebApp/Pick Earn/Merchant Pick Earn/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/AllWebApp/prerokAll/prerokRider/app/src/main/res/layout/activity_url_loads.xml" value="0.14628623188405798" />
+        <entry key="..\:/AllWebApp/prerokAll/prerokRider/app/src/main/res/layout/custom_toolbar.xml" value="0.1" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/drawable/button_bg_stroke.xml" value="0.1" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/drawable/ic_backspace_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/drawable/shape1.xml" value="0.1" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/layout/activity_internet_alert.xml" value="0.10219298245614035" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/layout/activity_splash.xml" value="0.12" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/layout/dialog_connection_unavailable.xml" value="0.10219298245614035" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/layout/header.xml" value="0.10219298245614035" />
+        <entry key="..\:/Canada Project/Calculator/app/src/main/res/menu/main_menu.xml" value="0.10219298245614035" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/drawable/btn_shape.xml" value="0.1045" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/drawable/button_bg_stroke.xml" value="0.1" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/activity_ai_choose_symbol.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/activity_ai_game.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/activity_aiget_player_name.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/activity_offline_game_menu.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/activity_offline_get_players_names.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/activity_settings.xml" value="0.13240740740740742" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/celebrate_dialog.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/draw_dialog.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/layout/quit_dialog.xml" value="0.17192982456140352" />
+        <entry key="..\:/Canada Project/Tic Tac Toe/app/src/main/res/menu/main_menu.xml" value="0.17192982456140352" />
+        <entry key="..\:/JpdbdRider/app/src/main/res/layout/activity_main.xml" value="0.13541666666666666" />
+        <entry key="..\:/JpdbdRider/app/src/main/res/layout/custom_toolbar.xml" value="0.11005434782608696" />
+        <entry key="..\:/JpdbdRider/app/src/main/res/layout/header.xml" value="0.21" />
+        <entry key="..\:/JpdbdRider/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21203703703703702" />
+        <entry key="..\:/JpdbdRider/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1125" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/alert_btn.xml" value="0.1" />
+        <entry key="..\:/MyApplication/app/src/main/res/drawable/bg_white_radius.xml" value="0.1" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_internet_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/activity_url_loads.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/app_exit_dialog.xml" value="0.16" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/custom_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_city.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/fragment_content.xml" value="0.12" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/layout_for_rv.xml" value="0.20416666666666666" />
+        <entry key="..\:/MyApplication/app/src/main/res/layout/ragment_city.xml" value="0.16" />
+        <entry key="..\:/New folder/Mamu Rider/app/src/main/res/layout/activity_internet_alert.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Mamu Rider/app/src/main/res/layout/activity_url_loads.xml" value="0.20416666666666666" />
+        <entry key="..\:/New folder/Mamu Rider/app/src/main/res/layout/custom_toolbar.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
